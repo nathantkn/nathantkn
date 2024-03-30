@@ -1,4 +1,4 @@
-![](https://github.com/nathantkn/nathantkn/blob/main/githubprofile.gif)
+![](https://github.com/nathantkn/nathantkn/blob/main/profile.gif)
 
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate software engineer from Vietnam, current in Chicago, IL.</h3>
