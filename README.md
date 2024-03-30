@@ -1,7 +1,9 @@
-![](https://github.com/nathantkn/nathantkn/blob/main/profile.gif)
+![PROFILE GIF](https://github.com/nathantkn/nathantkn/blob/main/profile.gif)
 
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate software engineer from Vietnam, current in Chicago, IL.</h3>
+# About Me:
+<br><br>👩‍💻 I am a `Sophomore` at the University of Illinois - Chicago.
+<br><br>💡 I’m currently learning `Computer Science` and `Software Engineering`.
+<br><br>⭐️ I’m currently looking for an `internship`, this is [MY RESUME]().
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
