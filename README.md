@@ -40,7 +40,6 @@ Hi there 👋 I'm Nathan, a passionate and enthusiastic student with the drive a
   <img src="https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
