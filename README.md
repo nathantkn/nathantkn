@@ -1,12 +1,11 @@
 ![](https://github.com/nathantkn/nathantkn/blob/main/profile.gif)
 
 # ✨ About Me:
-Hi there 👋 I'm Nathan, a passionate developer with the drive and belief in the power of innovation + technology to shape a better future.
-<br><br>🏫 I am a `Junior` at the University of Illinois - Chicago.
+Hi there 👋 I'm Nathan, a passionate developer with the drive and belief in the power of technology innovation to shape a better future.
+<br><br>🏫 I am a `Junior` at the University of Illinois - Chicago, currently majoring in `Computer Science` with a concentration in `Software Engineering`
 <br><br>🌱 I was born in Hanoi, Vietnam; currently residing in Chicago, Illinois.
-<br><br>👩‍💻 I’m currently majoring in `Computer Science` with a concentration in `Software Engineering`.
-<br><br>💡 I'm deeply interested in contributing in real-life projects that has a positive impact, as well as opportunities to explore the fascinating potential of `Artificial Intelligence` through software.
-<br><br>💬 I'm open to collaborate on open-source & collaborative projects.
+<br><br>💡 I'm deeply interested in contributing to real-life projects that have a positive impact, as well as opportunities to explore the fascinating potential of `Artificial Intelligence`.
+<br><br>💬 I'm open to collaborate on open-source & collaborative projects!
 <br><br>📚 Apart from coding, I enjoy going to the gym, listening to music, and playing football.
 <br><br>💼 I’m currently looking for an `internship` or `research` opportunity, here is [my resume](https://drive.google.com/file/d/1jRBJVbPZm09jpGbYLLi5670bMQ0DDLAq/view?usp=sharing).
 
