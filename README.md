@@ -46,7 +46,6 @@ Hi there 👋 I'm Nathan, a passionate developer with the drive and belief in th
   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
   <img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;GitHub Stats:
