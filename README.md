@@ -7,7 +7,7 @@ Hi there 👋 I'm Nathan, a passionate developer with the drive and belief in th
 <br><br>💡 I'm deeply interested in contributing to real-life projects that have a positive impact, as well as opportunities to explore the fascinating potential of `Artificial Intelligence`.
 <br><br>💬 I'm open to collaborating on open-source, collaborative projects, or technical interview practice!
 <br><br>📚 Apart from coding, I enjoy going to the gym, listening to music, and playing football.
-<br><br>💼 I’m currently looking for an `internship` or `research` opportunity, here is [my resume](https://drive.google.com/file/d/1Z32a_cOwGy1A9JMo19tkpM1RsVfoXrkq/view?usp=sharing).
+<br><br>💼 I’m currently looking for an `internship` or `research` opportunity, here is [my resume](https://drive.google.com/file/d/1bPsCPCA9Yck_eGtMlqK17v1ihEBuSpfb/view?usp=sharing).
 
 # 🌐 Connect with me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-nguyen-trinh/)
