@@ -2,12 +2,11 @@
 
 # ✨ About Me:
 Hi there 👋 I'm Nathan, a passionate developer with the belief in the power of technology innovation to shape a better future.
-<br><br>🏫 I am a `Senior` at the University of Illinois Chicago, currently majoring in `Computer Science`.
+<br><br>🏫 I graduated from the University of Illinois Chicago, and now works as a Software Engineer at `Fulcrum GT`.
 <br><br>🌱 I was born in Hanoi, Vietnam; currently residing in Chicago, Illinois.
-<br><br>💡 I'm deeply interested in contributing to real-life projects that have a positive impact, as well as opportunities to explore the fascinating potential of `AI` and `LLM/LRM`.
-<br><br>💬 I'm open to collaborating on open-source, collaborative projects, or technical interview practice!
+<br><br>💡 I'm deeply interested in contributing to real-life projects that leave positive impact for the community, as well as opportunities to explore the fascinating potential of `AI/ML`.
 <br><br>📚 Apart from coding, I enjoy going to the gym, listening to music, and watching F1 & football.
-<br><br>💼 I’m currently looking for an `internship` or `research` opportunity, here is [my website/portfolio](https://nathantkn.me).
+<br><br>💼 Take a look at my [portfolio](https://nathantkn.me)!.
 
 # 🌐 Connect with me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-nguyen-trinh/)
